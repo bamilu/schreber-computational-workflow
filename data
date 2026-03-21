@@ -1,0 +1,18 @@
+## Data
+
+The dataset `schreber_segments_scored.csv` contains paragraph-level segments and all derived variables:
+
+-   `meta_score`
+-   `delus_score`
+-   `paranoid_meta`
+
+This is a **derived dataset** created from Schreber’s *Memoirs of My Nervous Illness*.\
+The original text is not distributed due to copyright restrictions.
+
+## How to Reproduce
+
+1.  Open the project in RStudio
+2.  Ensure working directory is the project root
+3.  Run:
+
+\`\`\`r source("scripts/QCMB_Tutorial_Chunk.R")

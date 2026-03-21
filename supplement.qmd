@@ -1,0 +1,35 @@
+
+---
+
+## 🔹 C. `supplementary/supplement.qmd` (FINAL)
+
+---
+title: "Supplementary Materials"
+format: html
+---
+
+# Supplementary Materials
+
+## Corpus
+
+Schreber’s *Memoirs of My Nervous Illness*, segmented into paragraphs.
+
+## Lexical Seeds
+
+Defined in the analysis script.
+
+## Scoring
+
+paranoid_meta = meta_score * delus_score
+
+## Methods
+
+- Correlation  
+- Autocorrelation  
+- Lagged association  
+- Peak detection  
+- Keyness  
+
+## Reproducibility
+
+All analyses are implemented in R and available in the repository.

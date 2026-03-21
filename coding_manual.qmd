@@ -1,0 +1,46 @@
+```markdown
+---
+title: "Coding Manual"
+format: html
+---
+
+# Coding Manual for Human Validation
+
+This manual defines the coding scheme used to validate computational estimates of meta-communication.
+
+## Coding Levels
+
+### N1 — Descriptive Content
+- Plain reporting
+- Narrative description
+- No explicit framing of discourse
+
+### N2 — Meta-Communicative Framing
+- Organizational or editorial markers
+- Statements about explanation, clarification, structure
+
+Examples:
+- “I will now explain…”
+- “In other words…”
+
+### N3 — Normative Ontological Meta-Communication
+- Claims about reality structure
+- Ontological authority statements
+- Integration of discourse and world-model
+
+Examples:
+- “The order of the world…”
+- “These rays governed…”
+
+## Instructions
+
+- Code each segment independently
+- Assign only one level (N1, N2, N3)
+- Remain blind to computational scores
+
+## Output Format
+
+Raters should complete:
+
+- `validation_template.csv`
+- columns: `raterA`, `raterB`

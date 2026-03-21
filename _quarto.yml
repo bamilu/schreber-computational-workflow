@@ -1,0 +1,40 @@
+project:
+  type: manuscript
+
+manuscript:
+  article: index.qmd
+  notebooks:
+    - notebook: notebooks/01-analysis.qmd
+      title: Computational Analysis
+    - notebook: supplementary/supplement.qmd
+      title: Supplementary Materials
+  meca-bundle: "schreber-meca.zip"
+  resources:
+    - data/
+    - images/
+    - tables/
+    - scripts/
+    - supplementary/
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    comments:
+      hypothesis: false
+  pdf:
+    documentclass: article
+    number-sections: true
+  docx: default
+  jats:
+    keyword-group-title: "Keywords"
+
+bibliography: references.bib
+csl: csl/apa7.csl
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto

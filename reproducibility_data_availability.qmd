@@ -1,0 +1,14 @@
+# Data and Code Availability
+
+All code, derived data, and reproducibility materials for this study are openly available in a public repository:
+
+[INSERT DOI / LINK]
+
+The repository includes:
+
+- The curated textual corpus derived from Schreber’s *Memoirs of My Nervous Illness*
+- The full R-based computational pipeline used for preprocessing, segmentation, scoring, and statistical analysis
+- The Quarto manuscript files and analysis notebooks
+- All figures and tables reported in the article
+
+Due to the manual curation process applied to the source text, the corpus represents a processed derivative rather than a direct facsimile of any single published edition. All transformations are documented within the repository to ensure transparency and reproducibility.

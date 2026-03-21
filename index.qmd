@@ -1,0 +1,35 @@
+---
+title: "Episodic Structure in Psychotic Discourse: A Reproducible Workflow for Modeling Meta-Communication and Delusional Ontology in Schreber’s Memoirs"
+date: last-modified
+lang: en
+
+abstract: |
+  This study presents a reproducible computational workflow for analyzing psychotic discourse through the interaction between meta-communication and delusional ontology. Building on pragmatic communication theory, these dimensions are operationalized as paragraph-level textual features and combined into a coupling index, enabling the examination of temporal organization in extended narrative material. Applied to Schreber’s *Memoirs of My Nervous Illness*, the analysis tests competing models of psychotic discourse, including cumulative escalation, temporal clustering, and reactive coupling. The results do not support a global escalation account. Instead, they reveal a non-uniform and temporally heterogeneous structure characterized by weak global association, limited serial persistence, and a small number of localized high-coupling segments. These peaks correspond to episodic configurations in which meta-communicative framing and delusional ontology become selectively aligned. The findings suggest that psychotic discourse is better understood as a sequence of transient discursive regimes rather than as a continuously intensifying system. Methodologically, the workflow provides a transparent and extensible framework for integrating qualitative theory with quantitative text analysis. Theoretically, it offers a preliminary formal framework for testing selected discourse-level implications of phenomenological models, particularly Sass’s concept of hyperreflexivity, in an empirically tractable form, allowing their claims to be specified, tested, and partially revised within a formal analytical framework.
+
+keywords:
+  - psychotic discourse
+  - meta-communication
+  - delusion
+  - computational psychiatry
+  - text analysis
+  - Schreber
+
+bibliography: references.bib
+csl: csl/apa7.csl
+reference-section-title: References
+number-sections: true
+---
+
+{{< include introduction.qmd >}}
+
+{{< include methods.qmd >}}
+
+{{< include results.qmd >}}
+
+{{< include discussion.qmd >}}
+
+{{< include conclusion.qmd >}}
+
+{{< include reproducibility_data_availability.qmd >}}
+
+\clearpage
