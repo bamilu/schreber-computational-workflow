@@ -1,0 +1,19 @@
+# Quarto
+_quarto/
+_freeze/
+_manuscript/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs e temporários
+*.log
+*.aux
+*.toc
+*.out
+
+# Sistema
+.DS_Store
+Thumbs.db
