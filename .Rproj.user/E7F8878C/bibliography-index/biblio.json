@@ -1,0 +1,1128 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "container-title": "Steps to an Ecology of Mind - Collected essays in anthropology, psychiatry, evolution, and epistemology",
+            "editor": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "id": "bateson1969b",
+            "issued": {
+                "date-parts": []
+            },
+            "keyword": "double-bind,dupla contradicao,duplo impasse,duplo laco",
+            "publisher": "Jason Aronson.",
+            "publisher-place": "Northvale",
+            "title": "Double bind (1969)",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "id": "bateson1972a",
+            "issued": {
+                "date-parts": []
+            },
+            "keyword": "antropologia,ecologia da mente,epistemologia,evolucao,psiquiatria",
+            "publisher": "Jason Aranson, Inc.",
+            "publisher-place": "Northvale, New Jersey / London",
+            "title": "Steps to an Ecology of Mind - Collected essays in anthropology, psychiatry, evolution, and epistemology",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "container-title": "Steps to an Ecology of Mind - Collected essays in anthropology, psychiatry, evolution, and epistemology",
+            "editor": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "id": "bateson1987d",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "keyword": "esquizofrenia,teoria",
+            "publisher": "Jason Aronson.",
+            "publisher-place": "Northvale",
+            "title": "Toward a theory of schizophrenia (1956)",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "container-title": "Steps to an Ecology of Mind - Collected essays in anthropology, psychiatry, evolution, and epistemology",
+            "editor": [
+                {
+                    "family": "Bateson",
+                    "given": "Gregory"
+                }
+            ],
+            "id": "bateson1987e",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "keyword": "aprendizagem,categorias logicas,comunicacao",
+            "publisher": "Jason Aronson.",
+            "publisher-place": "Northvale",
+            "title": "The logical categories of learning and communication (1964)",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.21105/joss.00774",
+            "author": [
+                {
+                    "family": "Benoit",
+                    "given": "K."
+                },
+                {
+                    "family": "Watanabe",
+                    "given": "K."
+                },
+                {
+                    "family": "Wang",
+                    "given": "H."
+                },
+                {
+                    "family": "Nulty",
+                    "given": "P."
+                },
+                {
+                    "family": "Obeng",
+                    "given": "A."
+                },
+                {
+                    "family": "Müller",
+                    "given": "S."
+                },
+                {
+                    "family": "Matsuo",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Journal of Open Source Software",
+            "id": "benoit2018b",
+            "issue": "30",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "keyword": "analise estatistica computacional,analise linguistica,analise textual,mineracao de texto,programacao,R software,text mining",
+            "page": "774",
+            "title": "Quanteda: An R package for the quantitative analysis of textual data",
+            "title-short": "Quanteda",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.32614/CRAN.package.quanteda.textstats",
+            "author": [
+                {
+                    "family": "Benoit",
+                    "given": "Kenneth"
+                }
+            ],
+            "id": "benoit2024a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "keyword": "analise estatistica computacional,analise linguistica,analise textual,mineracao de texto,programacao,quanted.textstats,R software,text mining",
+            "page": "774",
+            "title": "Quanteda.textstats: Text statistics for the quanteda package",
+            "title-short": "Quanteda.textstats",
+            "type": ""
+        },
+        {
+            "DOI": "10.1016/j.tics.2018.12.001",
+            "ISSN": "1364-6613 (Print) 1364-6613",
+            "abstract": "Hallucinations, perceptions in the absence of objectively identifiable stimuli, illustrate the constructive nature of perception. Here, we highlight the role of prior beliefs as a critical elicitor of hallucinations. Recent empirical work from independent laboratories shows strong, overly precise priors can engender hallucinations in healthy subjects and that individuals who hallucinate in the real world are more susceptible to these laboratory phenomena. We consider these observations in light of work demonstrating apparently weak, or imprecise, priors in psychosis. Appreciating the interactions within and between hierarchies of inference can reconcile this apparent disconnect. Data from neural networks, human behavior, and neuroimaging support this contention. This work underlines the continuum from normal to aberrant perception, encouraging a more empathic approach to clinical hallucinations.",
+            "author": [
+                {
+                    "family": "Corlett",
+                    "given": "P. R."
+                },
+                {
+                    "family": "Horga",
+                    "given": "G."
+                },
+                {
+                    "family": "Fletcher",
+                    "given": "P. C."
+                },
+                {
+                    "family": "Alderson-Day",
+                    "given": "B."
+                },
+                {
+                    "family": "Schmack",
+                    "given": "K."
+                },
+                {
+                    "family": "Powers",
+                    "given": "A. R.",
+                    "suffix": "3rd"
+                }
+            ],
+            "container-title": "Trends Cogn Sci",
+            "edition": "20181221",
+            "id": "corlett2019a",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "auditory verbal hallucinations,hallucinations,Hallucinations/*physiopathology,Humans,Illusions/*physiology,Nerve Net/*physiopathology,predictive coding,prior beliefs,psicologia computacional psicopatologia computacional psiquiatria computacional inteligencia artificial alucinacao delirio psicose crencas previas codificacao preditiva percepcao do discurso,psychosis,Speech Perception/*physiology",
+            "language": "en-US",
+            "page": "114-127",
+            "title": "Hallucinations and Strong Priors",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "author": [
+                {
+                    "literal": "cran.r-project.org"
+                }
+            ],
+            "id": "cran.r-project.org2022b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "keyword": "definicao da linguagem R,estatistica,informatica,linguagem R,programacao R,software R",
+            "title": "Cran.r-project.org, R Language Definition (Version 4.2.1, 2022-06-23) DRAFT",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Freud",
+                    "given": "Sigmund"
+                }
+            ],
+            "container-title": "The Case of Schreber, Papers on Technique and Other Works (1911-1913)",
+            "editor": [
+                {
+                    "family": "Freud",
+                    "given": "Sigmund"
+                },
+                {
+                    "family": "Freud",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Strachey",
+                    "given": "Alix"
+                },
+                {
+                    "family": "Tyson",
+                    "given": "Alan"
+                }
+            ],
+            "id": "freud1911a",
+            "issued": {
+                "date-parts": []
+            },
+            "page": "9-84",
+            "publisher": "The Hogarth Press / Institute of Psychoanalysis",
+            "publisher-place": "London",
+            "title": "Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia (Dementia Paranoides)",
+            "translator": [
+                {
+                    "family": "Strachey",
+                    "given": "James"
+                }
+            ],
+            "type": "chapter",
+            "volume": "S. E., 12"
+        },
+        {
+            "DOI": "10.1016/j.schres.2021.06.040",
+            "ISSN": "0920-9964 (Print) 0920-9964",
+            "abstract": "Bom “modelo” de desenho empírico e pipeline computacional aplicado à fala em psicose; mesmo que não seja paranoia pura, é metodologicamente transferível. ________________ OBJECTIVES: This study aimed to (1) determine the feasibility of collecting behavioral data from participants hospitalized with acute psychosis and (2) begin to evaluate the clinical information that can be computationally derived from such data. METHODS: Behavioral data was collected across 99 sessions from 38 participants recruited from an inpatient psychiatric unit. Each session started with a semi-structured interview modeled on a typical \"clinical rounds\" encounter and included administration of the Positive and Negative Syndrome Scale (PANSS). ANALYSIS: We quantified aspects of participants’ verbal behavior during the interview using lexical, coherence, and disfluency features. We then used two complementary approaches to explore our second objective. The first approach used predictive models to estimate participants’ PANSS scores from their language features. Our second approach used inferential models to quantify the relationships between individual language features and symptom measures. RESULTS: Our predictive models showed promise but lacked sufficient data to achieve clinically useful accuracy. Our inferential models identified statistically significant relationships between numerous language features and symptom domains. CONCLUSION: Our interview recording procedures were well-tolerated and produced adequate data for transcription and analysis. The results of our inferential modeling suggest that automatic measurements of expressive language contain signals highly relevant to the assessment of psychosis. These findings establish the potential of measuring language during a clinical interview in a naturalistic setting and generate specific hypotheses that can be tested in future studies. This, in turn, will lead to more accurate modeling and better understanding of the relationships between expressive language and psychosis.",
+            "author": [
+                {
+                    "family": "Girard",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Vail",
+                    "given": "A. K."
+                },
+                {
+                    "family": "Liebenthal",
+                    "given": "E."
+                },
+                {
+                    "family": "Brown",
+                    "given": "K."
+                },
+                {
+                    "family": "Kilciksiz",
+                    "given": "C. M."
+                },
+                {
+                    "family": "Pennant",
+                    "given": "L."
+                },
+                {
+                    "family": "Liebson",
+                    "given": "E."
+                },
+                {
+                    "family": "Öngür",
+                    "given": "D."
+                },
+                {
+                    "family": "Morency",
+                    "given": "L. P."
+                },
+                {
+                    "family": "Baker",
+                    "given": "J. T."
+                }
+            ],
+            "container-title": "Schizophr Res",
+            "edition": "20210826",
+            "id": "girard2022b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "*Mania,*Psychotic Disorders/psychology,analise linguistica computacional esquizofrenia psicose aguda mania linguagem falada esquizofrenia sintomas negativos sintomas positivos doenca mental psiquiatria psicologia,Bipolar disorder,Humans,Language,Negative symptoms,Positive symptoms,Schizophrenia",
+            "language": "en-US",
+            "page": "97-115",
+            "title": "Computational analysis of spoken language in acute psychosis and mania",
+            "type": "article-journal",
+            "volume": "245"
+        },
+        {
+            "DOI": "10.1038/s41598-026-39025-1",
+            "ISSN": "2045-2322",
+            "abstract": "Muito atual e valioso para uma cautela metodológica: certas métricas automáticas de coerência (incluindo semelhança semântica com LLMs) podem não correlacionar com avaliações humanas, o que impacta diretamente qualquer operacionalização de “sistematização discursiva”. ____________________ Se reduzirmos o artigo àquilo que verdadeiramente está em jogo, ele gira em torno de um problema clássico da psicologia da linguagem e da psicopatologia: como medir objetivamente a coerência do discurso humano, sobretudo quando essa coerência se altera em perturbações psicóticas. Durante mais de um século, desde Bleuler, a esquizofrenia foi descrita como um fenómeno de loosening of associations, isto é, uma espécie de afrouxamento das ligações entre ideias. Clinicamente, isso manifesta-se como discurso aparentemente desconexo, saltos temáticos, ou encadeamentos difíceis de seguir. O problema sempre foi metodológico: os clínicos reconhecem esse fenómeno quando o ouvem, mas como traduzi-lo numa métrica objetiva? Nas últimas duas décadas, com o avanço da linguística computacional e da inteligência artificial, consolidou-se uma hipótese aparentemente elegante: a incoerência poderia ser medida através da semelhança semântica entre palavras ou frases consecutivas. A ideia era simples. Se o discurso for coerente, os conceitos sucessivos estarão relativamente próximos no espaço semântico; se for incoerente, o discurso “saltará” entre conceitos distantes. Muitos estudos passaram então a utilizar modelos de linguagem, como LSA, BERT ou outros embeddings semânticos, para calcular a proximidade semântica entre segmentos do discurso. O artigo de He e colaboradores questiona diretamente essa premissa. O primeiro passo do estudo consiste em testar empiricamente algo que, surpreendentemente, quase nunca tinha sido testado de forma rigorosa: a semelhança semântica calculada por modelos de linguagem corresponde realmente àquilo que os humanos percebem como coerência? Para isso, os autores analisaram vários grandes conjuntos de dados de fala espontânea em diferentes línguas e compararam duas coisas: as avaliações humanas de coerência; os valores produzidos por métricas automáticas baseadas em semelhança semântica. O resultado é desconcertante para a abordagem dominante. A correlação praticamente não existe. Ou seja, as métricas baseadas em semelhança semântica não captam aquilo que os humanos reconhecem como coerência discursiva. Os autores ilustram esse problema com um exemplo simples mas revelador. A frase “A fox jumped over the tree” é claramente mais coerente do que a sequência embaralhada “fox tree jumped over the a”. No entanto, quando se calcula a semelhança semântica entre as palavras adjacentes, a frase incoerente pode apresentar valores iguais ou até superiores. Isto acontece porque a coerência não depende apenas de proximidade semântica entre palavras, mas de estrutura sintática, organização discursiva e expectativas probabilísticas. Este ponto conduz ao segundo movimento conceptual do artigo. Em vez de medir a coerência através da proximidade semântica, os autores exploram outras métricas linguísticas, sobretudo métricas probabilísticas, como a perplexity. A perplexity mede, de forma simplificada, o grau de previsibilidade de uma sequência de palavras para um modelo de linguagem. Se uma sequência for muito improvável segundo as regularidades da língua, a perplexity aumenta. Os resultados mostram que estas métricas probabilísticas correlacionam-se, ainda que modestamente, com as avaliações humanas de coerência. Em termos intuitivos, isto sugere que aquilo que percebemos como discurso coerente pode depender menos da proximidade conceptual entre palavras e mais da previsibilidade das transições linguísticas dentro da gramática e da estrutura discursiva. O estudo acrescenta ainda um terceiro nível de análise, que liga linguística e neurociência. Num conjunto de participantes que incluía pessoas com perturbações do espectro da esquizofrenia, os autores analisaram a relação entre incoerência discursiva e a organização funcional do cérebro. Utilizando medidas de conectividade funcional em larga escala, encontraram associações entre a redução de coerência do discurso e alterações nos chamados gradientes funcionais do cérebro, que refletem a organização hierárquica entre sistemas sensoriais, associativos e de integração conceptual. Este resultado reforça uma ideia que tem ganho força na psicologia linguística contemporânea: a linguagem espontânea não é apenas um comportamento comunicativo, mas um indicador integrado da organização cognitiva do cérebro. Quando a arquitetura hierárquica de processamento se altera, como pode acontecer na esquizofrenia, o discurso torna-se menos previsível e menos estruturado. Do ponto de vista teórico, o artigo tem duas consequências importantes para os paradigmas atuais da psicologia da linguagem. A primeira é metodológica. Ele mostra que muitas abordagens computacionais recentes podem estar a medir a coisa errada. A coerência discursiva não é simplesmente uma questão de proximidade semântica num espaço vetorial. Ela envolve múltiplos níveis: sintaxe, pragmática, planeamento discursivo e representação do interlocutor. Reduzi-la à distância entre embeddings semânticos pode ser uma simplificação excessiva. A segunda consequência é conceptual. O estudo aproxima-se de uma visão da linguagem como um fenómeno profundamente hierárquico e probabilístico. A coerência não resulta apenas de associações entre palavras, mas da capacidade do sistema cognitivo de gerar sequências linguisticamente plausíveis dentro de uma arquitetura neural organizada em múltiplos níveis. Em síntese, o que este artigo propõe é uma mudança de foco. Em vez de procurar a incoerência psicótica num “alargamento do espaço semântico”, os autores sugerem que ela pode refletir uma perturbação mais profunda da organização hierárquica do processamento linguístico e cognitivo. O discurso torna-se menos coerente não porque as palavras estejam semanticamente distantes, mas porque o sistema que organiza e prevê a sequência do discurso perdeu parte da sua estrutura. Essa mudança de perspetiva é particularmente relevante para áreas como a psiquiatria computacional e a linguística clínica, onde a fala espontânea começa a ser usada como marcador quantitativo de estados mentais. O artigo lembra que, para compreender a psicose através da linguagem, não basta medir semelhanças semânticas. É preciso compreender como o cérebro organiza probabilisticamente a produção do discurso ao longo de múltiplos níveis hierárquicos.",
+            "author": [
+                {
+                    "family": "He",
+                    "given": "R."
+                },
+                {
+                    "family": "Grodzki",
+                    "given": "R."
+                },
+                {
+                    "family": "Altay",
+                    "given": "N."
+                },
+                {
+                    "family": "Aston",
+                    "given": "B."
+                },
+                {
+                    "family": "Alonso-Sánchez",
+                    "given": "M. F."
+                },
+                {
+                    "family": "Homan",
+                    "given": "P."
+                },
+                {
+                    "family": "Sommer",
+                    "given": "I."
+                },
+                {
+                    "family": "Palaniyappan",
+                    "given": "L."
+                },
+                {
+                    "family": "Hinzen",
+                    "given": "W."
+                }
+            ],
+            "container-title": "Sci Rep",
+            "edition": "20260208",
+            "id": "he2026b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "analise linguistica computacional esquizofrenia psicose aguda mania linguagem falada coerencia discursiva sistematicidade no discurso delirante doenca mental psiquiatria psicologia processamento da linguagem falada LLMs,Coherence,Functional gradient,Language models,Natural language processing,Schizophrenia",
+            "language": "en-US",
+            "title": "Reduced linguistic coherence in psychosis defies semantic similarity accounts and relates to altered large-scale cortical hierarchy",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.3389/fpsyg.2015.00971",
+            "ISSN": "1664-1078 (Print) 1664-1078",
+            "abstract": "Um enquadramento forte para pensar coerência, pragmática e “context processing” como fenómenos linguísticos, e não meramente cognitivos; dá-te linguagem teórica para definires métricas. _________________ We hypothesize that linguistic (dis-)organization in the schizophrenic brain plays a more central role in the pathogenesis of this disease than commonly supposed. Against the standard view, that schizophrenia is a disturbance of thought or selfhood, we argue that the origins of the relevant forms of thought and selfhood at least partially depend on language. The view that they do not is premised by a theoretical conception of language that we here identify as ’Cartesian’ and contrast with a recent ’un-Cartesian’ model. This linguistic model empirically argues for both (i) a one-to-one correlation between human-specific thought or meaning and forms of grammatical organization, and (ii) an integrative and co-dependent view of linguistic cognition and its sensory-motor dimensions. Core dimensions of meaning mediated by grammar on this model specifically concern forms of referential and propositional meaning. A breakdown of these is virtually definitional of core symptoms. Within this model the three main positive symptoms of schizophrenia fall into place as failures in language-mediated forms of meaning, manifest either as a disorder of speech perception (Auditory Verbal Hallucinations), abnormal speech production running without feedback control (Formal Thought Disorder), or production of abnormal linguistic content (Delusions). Our hypothesis makes testable predictions for the language profile of schizophrenia across symptoms; it simplifies the cognitive neuropsychology of schizophrenia while not being inconsistent with a pattern of neurocognitive deficits and their correlations with symptoms; and it predicts persistent findings on disturbances of language-related circuitry in the schizophrenic brain.",
+            "author": [
+                {
+                    "family": "Hinzen",
+                    "given": "W."
+                },
+                {
+                    "family": "Rosselló",
+                    "given": "J."
+                }
+            ],
+            "container-title": "Front Psychol",
+            "edition": "20150716",
+            "id": "hinzen2015b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "keyword": "delusions,discurso esquizofrenico discurso delirante discurso paranoide sistematicidade no discurso delirante patologia da linguagem linguistica da esquizofrenia sisntomas positivos na esquizofrenia psicopatologia psiquiatria,formal thought disorder,hallucinations,language,schizophrenia,self-disturbance,thought",
+            "language": "en-US",
+            "page": "971",
+            "title": "The linguistics of schizophrenia: Thought disturbance as language pathology across positive symptoms",
+            "title-short": "The linguistics of schizophrenia",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "abstract": "Translating advances in neuroscience into benefits for patients with mental illness presents enormous challenges because it involves both the most complex organ, the brain, and its interaction with a similarly complex environment. Dealing with such complexities demands powerful techniques. Computational psychiatry combines multiple levels and types of computation with multiple types of data in an effort to improve understanding, prediction and treatment of mental illness. Computational psychiatry, broadly defined, encompasses two complementary approaches: data driven and theory driven. Data-driven approaches apply machine-learning methods to high-dimensional data to improve classification of disease, predict treatment outcomes or improve treatment selection. These approaches are generally agnostic as to the underlying mechanisms. Theory-driven approaches, in contrast, use models that instantiate prior knowledge of, or explicit hypotheses about, such mechanisms, possibly at multiple levels of analysis and abstraction. We review recent advances in both approaches, with an emphasis on clinical applications, and highlight the utility of combining them.",
+            "author": [
+                {
+                    "family": "Huys",
+                    "given": "Q. J. M."
+                },
+                {
+                    "family": "Maia",
+                    "given": "T. V."
+                },
+                {
+                    "family": "Frank",
+                    "given": "M. J."
+                }
+            ],
+            "container-title": "Nature Neuroscience",
+            "id": "huys2016a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "psicologia computacional,psicopatologia computacional,psiquiatria computacional",
+            "page": "404-413",
+            "title": "Computational psychiatry as a bridge from neuroscience to clinical applications",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "abstract": "DETAILED ANALYSIS OF CONTENTS PAGE Introduction 1 § I. The boundaries of general psychopathology 1 (a) Psychiatry as clinical practice and psychopathology as a science (h) Psychopathology and psychology . 3 (c) Psychopathology and physical medicine . 3 (d) Methodology-the contribution of philosophy 5 § 2. Some basic concepts (a) Man and animal . (h) Objective manifestations of psychic life (c) Consciousness and the unconscious. (d) Inner and outer world . (e) Differentiation of psychic life . (f) Recapitulation 6 7 9 9 11 13 15 § 3. Prejudice and presupposition 16 (a) Prejudice . 16 ( 1) Philosophical prejudice 16 (2) Theoretical prejudice . 17 (3) Somatic prejudice . . . 18 (4) ’Psychologising’ and ’intellectualising’ 19 ( 5) Use of false analogy . . . . 19 (6) Medical prejudice relating to quantitative assessment, objectivity and diagnostics 20 (h) Presupposition 20 § 4. Methods 22 (a) Techniques 23 (1) Case study (2) Statistics (3) Experiments (h) The practical logic of research (1) Collection of individual phenomena (2) Enquiry into connections (3) Grasp of complex unities (c) Inevitable mistakes in formal logic that have to be constantly overcome. ( 1) The slide into endlessness . (2) The impasse created by absolutes . (3) Pseudo-insight through terminology . (d) The relatedness of psychopathological methods to other scientific studies . (e) The demands of a satisfactory methodology: a critique of methods in contrast to methods that mislead xvi 31 31 34 35 35 37DETAILED ANALYSIS OF CONTENTS § 5. What a general psychopathology has to do: a survey of this book (a) Conscious critique of methods in place of dogmatism . (h) Classification according to methods . . . (c) The idea of the whole . . (d) The objective validity of the classifications (e) The plan of the book . . (f) Comments on the plan of the book (1) Empiricism and philosophy . (2) O verlapping of chapters . . (3) Specific method s and the total picture (g) Technical lay-out (1) Illustration by example (2) The form of presentation (3) References to the literature (h) Psychopathology and culture Part One: Individual Psychic Phenomena Introduction CHAPTER I SUBJECTIVE PHENOMENA OF MORBID PSYCHIC LIFE (PHENOMENOLOGY) Introduction SECTION ONE: ABNORMAL PSYCHIC PHENOMENA (a) The dissection of the total relational context (h) Form and content of phenomena (c) Transitions between phenomena (d) Classification of groups of phenomena § 1. Awareness of objects Psychological Preface (a) Anomalies of perception (h) Abnormal characteristics of perception (c) Splitting of perception . (d) False perceptions (e) Abnormal imagery-false memory . (f) Vivid physical awarenesses XVll PAGE 53 55 57 58 59 6o § 2. Experience of space and time . 79 Psychological Preface 79 (a) Space (micropsy and macropsy, experience ofinfinite space, emotional space) 80 (h) Time 82 (1) Momentary awareness of time . . . (2) Awareness of time-span o f the immediate p astxviii DETAILED ANALYSIS OF CONTENTS PAGE (3) Awareness of time-present in relation to time-past and future 85 (4) Awareness of the future . . . . . . . 86 (5) Schizophrenic experience of time standing still, flowing together, and stopping 86 (c) Movement. 87 § 3. Awareness of the body 88 Psychological Preface 88 (a) Amputated limbs 89 (b) Neurological disturbances . . . . . . . 90 (c) Bodily sensations, perception of bodily shape, hallucinations of the bodily senses, etc. 90 (d) The \"double\" or heautoscopy 92 § 4. Delusion and Awareness of reality Awareness of Reality; logical and psychological comment (a) The concept of delusion (b) Primary delusions (c) Incorrigibility of delusion (d) Elaboration of the delusion (e) Delusion proper and delusion-like idea (f) The problem of metaphysical delusions § 5. Feelings and affective states Psychological Preface (a) Changes in bodily feeling (b) Changes in feelings of capacity (c) Apathy (d) The feeling of having lost feeling (e) Change in the feeling-tone of perception (/) Unattached feelings (free-floating feeling) (g) The growth of private worlds from unattached feelings § 6. Urge, Drive and Will Psychological Preface (a) Impulsive acts (b) Awareness of inhibition of will (c) Awareness of loss of will or access of power § 7. Awareness of the self Psychological Preface (a) Activity of the self (b) The unity of the self (c) Identity of the self (d) Awareness of self as distinct from the outside world (e) Awareness of one’s personality . . (/) Multiple personalities: dissociated personality § 8. Phenomena of self-reflection Psychological Preface (a) Psychic life- mediated and unmediated by thought 93 93 95 98 104 106 106 107 108 108 IIO Ill Ill 111 112 113 II5 117 117 117 118 119 121 121 121 124 125 126 127 128 131 131 132DETAILED ANALYSIS OF CONTENTS (b) Disturbance of instinct and bodily function (c) Compulsive phenomena XIX PAGE l32 133 SECTION Two: THE MOMENTARY WHOLE-THE STATE OF CoNSCIOUSNEss Psychological Preface 138 Techniques of enquiry 140 § I. Attention and fluctuations in consciousness 140 (a) Attention . 140 (b) Fluctuations in consciousness . 142 (c) Clouding of consciousness 143 (d) Heightening of consciousness 143 § 2. Sleep and hypnosis . 144 (a) Dreams 144 (h) Falling asleep and waking 146 (c) Hypnosis 146 § 3$\\cdot$ Psychotic alterations in consciousness 147 § 4. Forms of complex fantasy experience 148 CHAPTER II OBJECTIVE PERFORMANCES OF PSYCHIC LIFE- (PERFORMANCE PSYCHOLOGY- LEISTUNGSPSYCHOLOGIE) (a) Subjective and objective psychology 155 (b) The basic neurological schema of the reflex arc and basic psychological schema of task and performance 155 (c) The antagonism between the two basic schemata 158 (d) Association-, Act- and Gestalt-Psychology 160 (e) The hierarchy of complex unities 164 (/) Experimental work in psycho!)athology 165 SECTION ONE: INDIVIDUAL PERFORMANCES § 1. Perception 169 § 2. Apperception and orientation 171 § 3. Memory 173 Psychological Preface x73 (a) Amnesias . . 174 (b) Disturbances of recall (reproduction), retention and registration 175 (c) Falsifications of memory 178 § 4. Motor activity 17 9 (a) Neurological disturbances of motility 179 (b) Apraxias . 180 (c) Psychotic disturbances of motor activity 180xx DETAILED ANALYSIS OF CONTENTS PAGE § 5. Speech 185 Psychological Preface 185 (a) Disorders of articulation 186 (b) Aphasias . . . 187 (c) Speech disorders in psychoses 191 § 6. Thought and judgment . 194 SECTION Two: THE ToTAL PERFORMANCE § 1. The psychophysical basis for performance . (a) Basic psychophysical functions (b) Work-performance (c) Individual variations in performance § 2. The actual flow of psychic life . (a) Flight of ideas and retardation (b) Confusion . 208 209 213 § 3. Intelligence 214 (a) Analysis of Intelligence (preconditions, store of knowledge, intelligence proper) 214 (b) Types of dementia 216 (1) Fluctuations in output . 216 (2) Congenital suhnormality 217 (3) ’Relative mental defect’ 217 (4) Organic dementia . . . 21 8 (5) Schizophrenic ’dementia’ (deterioration) 218 (6) Cultural suhnormality . . . 220 (7) Emotional stupidity and pseudo-dementia 220 (c) Examination of intelligence (life history, clinical exploration, tests) 220 CHAPTER III SOMATIC ACCOMPANIMENTS AND EFFECTS AS SYMPTOMS OF PSYCHIC ACTIVITY (SOMATOPSYCHOLOGY) Body-psyche relationship § I. The basic psychosomatic facts . (a) Body-sensations . (b) Constant somatic accompaniments (c) Sleep (d) Somatic effects in hypnosis 222 227 227 228 232 234 § 2. Somatic disturbances dependent on the psyche 2 36 (a) Main categories of psychically determined somatic disturbances 2 36 (1) Faints and fits . $\\bullet$ ~36 (2) Organic dysfunctions . . . . 237 (3) D ependence of primary somatic disorders on the psyche 239 (4) Functional disturbance of complex instinctive behaviour 240 (b) The origin of somatic disturbances . 241DETAILED ANALYSIS OF CONTENTS § 3. Somatic findings in psychosis (a) Body-weight . (b) Cessation of menses . (c) Endocrine disturbances. . . . . . . . (d) Systematic physiological investigations to find clinical pictures with typical somatic pathology . . . . . . . Introduction CHAPTER IV MEANINGFUL OBJECTIVE PHENOMENA XXl ’ PAGE 246 247 248 248 SECTION ONE: EXPRESSION OF THE PsYCHE THROUGH Bony AND MovEMENT (THE PsYCHOLOGY OF ExPRESSION-AusDRUCKSPSYCHOLOGIE) (a) Somatic accompaniments and psychic expression 253 (h) Understanding the expression . . . 255 (c) Techniques of investigation 257 (d) Summary . 258 § 1. The study of physiognomy § 2. Involuntary gesture (Mimik) (a) T ypes of bodily movement (h) Understanding involuntary gesture-general principles (c) Psychopathological observations § 3. Handwriting . 2 73 SECTION Two: THE INDIVIDUAL’S PERSONAL WoRLD (THE PsYCHOLOGY OF THE PERSONAL W ORLD-WELTPSYCHOLOGIE) § 1. Analysis of conduct (a) Behaviour . (h) The shape given to the environment (c) The whole way of life . (d) Overt actions § 2. Transformation of the personal world (a) The worlds of schizophrenic patients (b) The worlds of obsessional patients . (c) The worlds of patients with ’flight of ideas’ 280 SECTION THREE: THE PSYCHE OBJECTIFIED IN KNOWLEDGE AND ACHIEVEMENT (THE PSYCHOLOGY OF CREATIVITY-WERKPSYCHOLOGIE) § 1. Individual instances of creative work (a) Speech (h) Patients’ written productions . (c) Drawing, art and handicraft .XXll DETAILED ANALYSIS OF CONTENTS PAGE § 2. The total mental achievement-the patients’ general outlook- (’Weltanschauung’) 293 (a) Realisation of extremes . 294 (b) Patients’ specific outlooks (Weltanschauungen) 294 (c) Patients’ own observations of a philosophical character 296 Part Two: Meaningful Psychic Connections (The Psychology of Meaning-Verstehende Psychologie) (a) Understanding and explaining 302 (b) Concrete reality and the self-evidence of understanding (Understanding and Interpretation) 303 (c) Rational and empathic understanding 304 (d) Understanding is limited and explanation unlimited 305 (e) Understanding and unconscious events 306 (f) Pseudo-unclerstanding . 306 (g) Modes of comprehensive understanding (cultural, existential and metaphysical) 307 (h) How what can be understood_psychologically moves midway between meaningful objectivity and what cannot be understood 310 (i) The function of understanding in psychopathology 313 CHAPTER V MEANINGFUL CONNECTIONS § 1. The sources of our ability to understand and the task of the psychopathology of meaningful connections 314 § 2. Connections with a meaningful content 317 (a) Instinctual drives, their psychic manifestations and transformations (1) Concept of drive . (2) Classification of drives . (3) Abnormal drives . . . . . (4) Psychic developments due to transformation of drive (b) The individual in the world (1) The concept of situation (2) Concrete reality . . (3) Self-sufficiency and dependency . . . (4) T ypical blsic relationships of the individual to reality (5) Denial of reality through self-deception (6) Marginal situations (c) Symbols as the content of ultimate knowledge (1) Ultimate knowledge . . . . . (2) Concept of the symbol and its significance in real life (3) The possibility of understanding symbols (4) The historical studv of svmbols . (5) The possible functfon o( symbol-exploration 317 318 320 324 325 325 326 326 327 328 33$^\\circ$ 33$^\\circ$ , 330 33 1 33 2 333 334DETAILED ANALYSIS OF CONTENTS § 3. Basic patterns of meaning (a) Opposing tendencies in the psyche and the dialectic of its movement (1) Logical, biological, psychological and intellectual opposites (2) Dialectical modes . . . . . . . . (3) Application of the dialectic of opposites to psychopathological understanding . . . . . . . . . (4) Fixation of psychopathological concepts as opposing absolutes (b) The reciprocity of Life and Meaning § 4. Self-reflection (a) Reflection and the unconscious (b) Self-reflection as a spur to the psychic dialectic (c) The structure of self-reflection (d) Examples of the effect of self-reflection (1) The connection between intended and unintended events (2) Awareness of personality (3) Ultimate (basic) knowledge § 5. The basic laws of psychological understanding and of meaningfulness (a) Empirical understanding is an interpretation (b) Understanding follows ’the hermeneutic round’ . (c) Opposites are equally meaningful (d) Understanding is inconclusive (e) Unlimited interpretation (f) To understand is to illuminate and expose (g) Excursus into psychoanalysis . CHAPTER VI MEANINGFUL CONNECTIONS AND THEIR SPECIF!C MECHANISMS XXlll PAGE 340 340 343 344 345 347 347 349 349 351 35 1 353 354 355 356 356 357 357 358 359 359 (a) The concept of the extra-conscious mechanism . 364 (b) Meaningful content and mechanisms . . . $\\bullet$ $\\bullet$ 365 (c) Mechanisms that are universal and constantly in action and those that are specifically evoked by psychic experiences 365 (d) Normal and abnormal mechanisms . 366 SECTION ONE: NORMAL MECHANISMS (a) Psychogenic reactions (Erlebnisreaktionen) (b) After-effects of previous experience. (c) Dream-contents (d) Suggestion (e) Hypnosis .XXlV DETAILED ANALYSIS OF CONTENTS SECTION T wo: ABNORMAL MECHANISMS Characteristics of the abnormality of the mechanisms PAGE 381 § 1. P athological psychogenic reactions . 383 (a) Reaction as distinct from Phase and Thrust (Schub) . . 384 (b) The three different ways in which reactions become meaningful 385 (c) Classification of reactive states 389 (d) The curative effect of emotional trauma 393 § 2. Abnormal after-effects of previous experience 394 (a) Abnormal habits. 394 (h) The effects of complexes 395 (c) Compensation 396 (d) Disintegrating and Integrating T endencies 397 § 3. Abnormal Dreams . 399 (a) Dreams during physical illness (h) Abnormal psychotic dreams . (c) The content of abnormal dreams § 4. H ysteria § 5. Meaningful content in the psychoses (a) Delusion-like ideas (b) Delusions in schizophrenia (c) Incorrigibility (d) Classification of delusional content . CHAPTER VII THE PATIENT’S ATTITUDE TO HIS ILLNESS (a) Understandable attitudes to the sudden onset of acute psychosis 399 399 400 401 408 4o9 410 410 411 (perplexity, awareness of change) 414 (b) Working through the effects of acute psychoses . 416 (c) Working through the illness in chronic states 416 (d) The patient’s judgment of his illness 419 (1) Self-observation and awareness of one’s own state (2) Attitudes in acute psychoses . . (3) Attitude to psychosis after recovery $\\bullet$ (4) A ttitudes in chronic psychoses (e) The determination to fall ill . . . . . . . (f) The attitude to one’s own illness: its meaning and possible implications CHAPTER VIII THE TOTALITY OF THE MEANINGFUL CONNECTIONS (CHARACTEROLOGY) § I. Defining the Concept (a) What personality really is 420 421 422 4 2 3 424§ 2. § 3$\\cdot$ § 4. DETAILED ANALYSIS OF CONTENTS (b) How personality comes into being . (c) The understandable personality and its opposite. Methods of Personality-analysis (a) XXV PAGE 429 43$^\\circ$ 4JI Awareness of the possibilities of verbal description 432 (h) The concepts of personality-study are those of the psychology of meaningful connection . (c) T ypology as a method . Attempts at Basic Classification of Character (a) Single, individual forms (b) Ideal types . (c) Personality-structure in general (d) Real types . Normal and Abnormal Personalities I. Variations of Human Nature. (a) Variations in the basic personality-dispositions . (1) Basic dispositions of temperament (2) Basic will-power (3) Basic dispositions of feeling and drive (b) Variations in psychic energy (1) The neurasthenic syndrome (2) The psychasthenic syndrome (c) Reflective personalities . (1) Hysterics (2) Hypochondriacs $\\bullet$ (3) The self-insecure personalities . II. Personality-change due to a Process (a) Dementia due to organic cerebral processes (b) Epileptic dementia (c) ’Dementia’ in schizophrenia . Part Three: The Causal Connections of Psychic Life (Explanatory Psychology-Erklarende Psychologie) (a) Simple causality and its difficulty (b) Mechanism and organism (c) Endogenous and exogenous causes (d) Causal events are extra-conscious events . (1) Signs and symptoms (2) ’Organic-functional’ (e) Causal knowledge must not be made an absolute (/) Review of our causal knowledge . . . 433 434 435 435 436 436 438 439 439 44o 44$^\\circ$ 440 440 441 441 442 443 443 444 445 445 446 446 446 45 1 452 454 457 459 46o 46o 462XXVI DETAILED ANALYSIS OF CONTENTS CHAPTER IX EFFECTS OF ENVIRONMENT AND OF THE BODY ON PSYCHIC LIFE § r. Environmental effects (a) Time of day, season, weather, climate (b) Fatigue and exhaustion. § 2. Poisons § 3. Physical illnesses (a) General medical illnesses (b) Endocrine disorders (c) Symptomatic psychoses (d) Dying PAGE 463 464 465 466 469 469 470 475 477 § 4. Cerebral processes . 478 (a) Organic cerebral diseases 478 (b) General and specific symptoms 479 (c) The history of the theory of localisation 480 (d) Relevant facts for the localisation theory: clinical data, the structure of the brain, pathological-anatomical findings 483 (e) Basic questions raised by the theory of localisation 492 (f) The questionable aspect of localising psychic material . 495 CHAPTER X HEREDITY § 1. The old basic concepts and their genealogical and statistical clarifications . (a) The basic fact of heredity (b) The genealogical point of view (c) Statistics . (d) Constant and inconstant heredity . (e) The cause for the first or fresh appearance of mental illnesses (1) Harmful effects of inbreeding or hybridisation (2) Degeneration . § 2. The new impact of biological theories on heredity (Genetics) (a) Statistics of variations . (b) The Genotype and Phenotype (c) Mendelian Laws . (d) Hereditary substance lies in the cells (e) Mutation . (f) Critical limitations (g) Resume of the most important basic concepts § 3. Application of Genetics to psychopathology (a) The basic guiding ideas (b) Methodological difficulties 497 497 498 499 501 503 5$^\\circ$3 5$^\\circ$5DETAILED ANALYSIS OF CONTENTS XXVll PAGE (c) Investigation into the heredity of psychoses 518 (d) Investigations into the heredity of psychic phenomena. p9 (e) The idea of hereditary groupings 52r (f) Twin-research 524 (g) Injury to the germ-cell . 526 (h) The importance of applying genetics in psychopathology in spite of negative results up to the present 527 § 4. Return to empirical statistics of a temporary character 528 CHAPTER XI EXPLANATORY THEORIES-THEIR MEANING AND VALUE § I. Characteristics of explanatory theories 53c (a) The nature of theories . 53$^\\circ$ (b) Basic theoretical concepts in psychopathology 531 § 2. Examples of theory formation in psychopathology 534 (a) Wernicke . 534 (b) Freud 537 (c) Constructive-genetic psychopathology 540 (d) Comparison of the above theories 546 § 3$\\cdot$ Critique of theorising in general 547 (a) Natural scientific theories as models. 547 (b) The spirit of theorising 547 (c) Fundamental errors of theorising 549 (d) The necessity for theories in psychopathology 55$^\\circ$ (e) Methodological attitude to theorising 55 1 Part Four: The Conception of the Psychic Life as a Whole (a) The main objective 556 (b) Threefold division of the objective . 556 (c) W hat can and cannot be achieved in trying to reach this objective 557 (d) Enthusiasm for the whole and its power to mislead 558 (e) Knowledge of Man as a way into the openness of being human 559 ( f) Investigation guided by ideas 560 (g) Methods of typology . 560 (h) The psychic profile (the psychogram) 562 CHAPTER XII THE SYNTHESIS OF DISEASE ENTITIES (NOSOLOGY) § 1. Investigation guided by the idea ofdisease entities Unitary psychosis or series of definable disease entities Entities from the point of view of: psychic structure the causal factorXXVlll D ETAILED ANALYSIS OF CONTENTS anatomical findings . the course of the illness . . . . . . . The unification of all points of view in the idea of Disease entity (Kahlbaum and PAGE 565 566 Kraepelin) . Results of their investigations . . . . . . No disease entities except those of purely neurological cerebral processes . Significance of the idea of disease entity for type-formation in special psychiatry Objections to Kraepelin’s ideas . . . Concrete field of enquiry opened up by these ideas Research into the Brain . Research into T ypes . The task for special psychiatry . § 2. Basic classifications in the total field of psychic illness. I. Differentation according to the clinical state Acute and chronic psychoses II. Differentation according to the nature of the illness (a) Defects in performance and disorders of personality (b) Neuroses and Psychoses (c) Organic cerebral diseases and endogenous psychoses 566 567 567 568 568 570 57$^\\circ$ 57 1 572 573 574 574 (d) Affective and Mental illness (natural and schizophrenic psychic life) 574 574 575 576 577 § 3. Symptom-complexes (syndromes) 582 (a) Mental state and symptom-complex. 582 (b) Points of view governing the formulation of symptom-complexes 582 (c) The significance in reality of symptom-complexes 585 (d) Carl Schneider’s theory of schizophrenic symptom-complexes 586 Particular complexes 592 (a) Organic-symptom-complexes . 592 (b) Symptom-complexes of altered consciousness 593 (c) Symptom-complexes of abnormal affective states 596 (d) Symptom-complexes of ’delusional states’ 598 § 4. Classification of illnesses (Diagnostic schema) 604 (a) Requirements for a diagnostic schema. 6o4 (b) Outline of a diagnostic schema 605 (c) Explanation of the schema 6o6 Characteristics of the three groups . . 6o6 The meaning of the diagnosis in the three groups 6m Diagnostic hierarchy of symptoms in the three groups 6 1 1 Psychoses in combination (mixed psychoses) 612 Fruitful significance of the discrepancies . 613 (d) Statistical investigations with the help of diagnostic schemata 614 CHAPTER XIII THE HUMAN SPECIES (EIDOLOGY) (a) The idea of the Eidos . (b) Sex, constitution, Race . (c) Methods of Eidology (d) Gathering the facts $\\bullet$ , 617 618 620 622DETAILED ANALYSIS OF CONTENTS XXIX PAGE § I. Sex 623 Biological and psychological preface . 623 (a) The primary phenomenon of sex 623 (h) Biological factors in sex-differences . 624 (c) Somatic and psychological sex-differences . 625 (d) Sexual drive 626 (e) Historical aspect of research into sexuality 627 Sex-linked anomalies 628 (a) Different incidence of psychic illness in the two sexes 628 (h) Sexual epochs and reproduction 628 (c) Sexual disorders . 630 (d) Effects of castration 633 § 2 . Constitution 633 (a) The concept and idea of constitution 633 (h) History of the idea of a constitution 636 (c) Personality and psychosis 639 (d) Kretschmer’s theory of constitution. 641 (e) Critique of Kretschmer’s researches into constitution 645 (/) Conrad’s reformulation of psychiatric teaching on constitution 656 (g) The positive value of theories of constitution 666 § 3$\\cdot$ Race . 668 CHAPTER XlV BIOGRAPHICAL STUDY (BIOGRAPHIK) (a) The biographical material 671 (h) The use of the biography to apprehend the individual . 671 (c) The limits of the individual life and its history . 672 (d) Investigation guided by the idea of the individual 674 § I. Biographical Methods 674 (a) Collection, arrangement and presentation of the material 674 (h) Case-record and biographical study 675 (c) The present as the starting-point 675 (d) The idea of the individual life as a unity . 677 (e) The basic biographical categories 678 (/) Comments on literary biography 678 (g) Pathographies 679 (h) The art of publishing case-histories 680 § 2. The individual life as a biological event 681 (a) Age epochs (biological age, biological relation between age epoch and mental illness) 681 (h) Typical course of an illness (attack, phase, period, process) . 687 § 3. The individual life in terms of its history . 694 (a) The basic categories for the life-history (elements of the development as a whole, specific categories of development, consciousness as a- - XXX DETAILED ANALYSIS OF CONTENTS PAGE means ofacquiring new automatisms, the creation of personal worlds and works, sudden change and adaptation, the first experience, critical situations, intellectual development) 694 (b) Some special problems (importance of infancy and early childhood, relationship of the psyche to its own age-epochs, development as an experience) 699 (c) The basic problem of psychopathology: is it personality development or process . 702 Part Five: The Abnormal Psyche in Society and History (Social and Historical Aspects of the Psychoses and the Personality-disorders) (a) Heredity and tradition . 709 (b) The community . 710 (c) The extension of psychopathology from a social anamnesis to the exploration of historical material 7n (d) The meaning of socio-historical facts 713 (e) Methods 713 § 1. The significance of the social situation for the illness (a) Causal effects of the civilised milieu. 716 716 718 718 720 721 721 (b) Typical situations for the individual (c) Times of security, revolution, war (d) Accident-neuroses (e) Work-situation . (f) Educational situation § 2. Investigations into population, occupation, class, urban, rural and other groups 722 § 3. Asocial and antisocial conduct (a) Asocial conduct . (b) Antisocial conduct (the psychology of crime) § 4. Psychopathology of Mind (a) Empirical investigation: pathography Meditative exercises (b) General problems: significance of illness for creativity, connection between the form of illness and the cosmic content, cultural assessment of sick individuals (c) Psychopathy and religion § 5. Historical aspects (a) The determination of morbid psychic content by the culture and the historical situation (b) The history of hysteria: possession, psychic epidemics, witchcraft, orgiastic cults, spiritualism (c) Mass-psychology (d) Archaic psychic states . 729 73 1 732 73 2 734 737 737DETAILED ANALYSIS OF CONTENTS Ce) Psychopathological elements in different cultures Cf) The modern world and the problem of degeneration Part Six: The Human Being as a Whole XXXl PAGE 74$^\\circ$ 740 § 1. Psychopathology in retrospect . 747 Ca) Objections to my system of psychopathology 747 Ch) The obligation to integrate our knowledge of Man with the picture given by psychopathology 748 (c) The complex unities in retrospect and the problem ofa unified whole 750 Cd) The concrete enigmata in retrospect 752 § 2. The problem of the nature of man 7 56 Ca) The basic philosophic position 756 (h) The image of man 758 Cc) Philosophical construct of ourselves as that which encompasses 759 Cd) The eternal incompleteness of man . 760 Ce) Summary: Basic principles of the human being, and the significance and potentiality of our knowing him 765 § 3. Psychiatry and Philosophy 768 Ca) What scientific knowledge is . 768 Ch) Modes of scientific knowledge in psychopathology 768 Cc) Philosophy in psychopathology 769 Cd) Basic philosophical positions . 770 Ce) Philosophical confusion 771 Cf) Ways of looking at the world (Weltanschauung) passing for scientific knowledge 772 (g) Existential philosophy and psychopathology 775 (h) Metaphysical interpretation of illness 778 § 4. The concept of health and illness 779 Ca) The doubtful nature of the concept of illness 779 (h) Value norms and statistical norms . 780 (c) Concept of illness in somatic medicine 780 Cd) Concept of illness in psychiatry 783 The application of value-norms and statistical norms 783 Speculations regarding illness and health . . 785 Structuring the psychiatric concept of illness 788 § 5. The meaning of medical practice 790 Ca) The relation of knowledge to practice 791 Ch) The contingent nature of all therapy 792 Cc) Legal steps, expert opinion and psychotherapy . . 793 Cd) The link with different levels of general medical therapy . . 795 Ce) Types of inner obstacle-the patient’s decision to undergo therapy 800 Cf) The aims and limits of psychotherapy 801 (g) The personal role of the doctor 805 Ch) Different psychiatric attitudes 806 Ci) Harmful psychological atmospheres 809 Ck) The public aspect of psychotherapy 810XXX11 DETAILED ANALYSIS OF CONTENTS § I. Examination of patients . (a) General points (b) Methods of examination (c) Aims of the examination Appendix (d) Viewpoints for evaluating the results of the examination § 2. The function of therapy (a) Therapy and eugenics (b) Physical treatments (c) Psychotherapy Methods of suggestion Cathartic methods . Practice and training Methods of re-education . . . . Methods that address themselves to the personality (d) Hospital admission and treatment § 3. Prognosis (a) Danger to life (b) Curable or incurable § 4. The history of psychopathology as a science (a) Scientific knowledge and practice Psychiatry in mental hospitals and University clinics Psychotherapy . (b) From Esquirol to Kraepelin (19th century) Esquirol . . . . The describers and the analysers . The somatic and psychic approach Wernicke and Kraepelin . Independent individual contributions German and French psychiatry (c) Modern psychiatry (d) The drive to advance science and the forms it takes Drives and goals . . The origin of scientific movements Contemporary scientific trends Medicine and philosophy $\\bullet$",
+            "author": [
+                {
+                    "family": "Jaspers",
+                    "given": "Karl"
+                }
+            ],
+            "id": "jaspers1963a",
+            "issued": {
+                "date-parts": [
+                    [
+                        1963
+                    ]
+                ]
+            },
+            "keyword": "diagnostico,doenca mental,fenomenologia,psicopatologia geral",
+            "publisher": "The University of Chicago Press / The University of Toronto Press",
+            "publisher-place": "USA / Canada",
+            "title": "General Psychopathology",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-3-319-03164-4",
+            "author": [
+                {
+                    "family": "Jockers",
+                    "given": "M. L."
+                }
+            ],
+            "id": "jockers2014b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "keyword": "analise de texto com R,analise estatistica computacional,analise linguistica,literatura,mineracao de texto,programacao,R software",
+            "publisher": "Springer International Publishing",
+            "title": "Text Analysis with R for Students of Literature",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1093/schbul/sbw161",
+            "ISSN": "0586-7614 (Print) 0586-7614",
+            "abstract": "Texto muito útil para amarrar “systematized delusions” (cronicidade, coerência interna, lógica aparente) à evolução histórica e às limitações dos critérios DSM. __________________ This review traces, through psychiatric textbooks, the history of the Kraepelinian concept of paranoia in the 20th century and then relates the common reported symptoms and signs to the diagnostic criteria for paranoia/delusional disorder in DSM-III through DSM-5. Clinical descriptions of paranoia appearing in 10 textbooks, published 1899 to 1970, revealed 11 prominent symptoms and signs reported by 5 or more authors. Three symptoms (systematized delusions, minimal hallucinations, and prominent ideas of reference) and 2 signs (chronic course and minimal affective deterioration) were reported by 8 or 9 of the authors. Four textbook authors rejected the Kraepelinian concept of paranoia. A weak relationship was seen between the frequency with which the clinical features were reported and the likelihood of their inclusion in modern DSM manuals. Indeed, the diagnostic criteria for paranoia/delusional disorder shifted substantially from DSM-III to DSM-5. The modern operationalized criteria for paranoia/delusional disorder do not well reflect the symptoms and signs frequently reported by historical experts. In contrast to results of similar reviews for depression, schizophrenia and mania, the clinical construct of paranoia/delusional disorder has been somewhat unstable in Western Psychiatry since the turn of the 20th century as reflected in both textbooks and the DSM editions.",
+            "author": [
+                {
+                    "family": "Kendler",
+                    "given": "K. S."
+                }
+            ],
+            "container-title": "Schizophr Bull",
+            "id": "kendler2017b",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "*Diagnostic and Statistical Manual of Mental Disorders,analise linguistica da paranoia esquizofrenia doenca mental psicopatologia psiquiatria sistematicidade no discurso paranoico e paranoide,delusional disorder,Dsm,history,History 20th Century,Humans,Kraepelin,paranoia,Paranoid Disorders/*diagnosis/history/physiopathology,psychiatric nosology,Schizophrenia Paranoid/*diagnosis/history/physiopathology",
+            "language": "en-US",
+            "page": "332-343",
+            "title": "The Clinical Features of Paranoia in the 20th Century and Their Representation in Diagnostic Criteria From DSM-III Through DSM-5",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.1007/bf03159710",
+            "ISSN": "1053-881X (Print) 1053-881x",
+            "abstract": "A hypothesis is presented regarding the genesis of paranoid delusion that attempts to take into account certain data. The data of interest are (a) the failure to find evidence of cognitive impairment in diagnosed paranoid patients, (b) the evidence of perceptual disorder as a primary and prior condition in the natural history of the clinical development of delusions and the empirical relationship of the perceptual disorder to presence of \"thought disorder,\" (c) the failure to find evidence supporting universal psychodynamic patterns of etiology, (d) appearance of \"delusional\" phenomena in normal subjects in situations of deviant sensory experience, and (e) the reports of articulate patients writing of their experiences. This hypothesis suggests that there exists a group of patients who suffer from primary perceptual anomalies, fundamentally biological in nature although probably fluctuating with current stresses, and that these anomalies involve vivid and intense sensory input. These experiences demand explanation which the patient develops through the same cognitive mechanisms that are found in normal and scientific theory-building. As the data that are available to the patient are crucially different from those available to an observer, the latter judges the explanation to be bizarre and pathological. Being unable to check the validity of the patient’s descriptions of his sensory experience the assumption is made that the patient is having the same experience as the observer but is defective in reality-testing and/or inferential thinking. As the evidence for the presence of perceptual disorder is stronger than the direct evidence for cognitive impairment, the hypothesis outlined here places central importance on the former. In brief, it is suggested that for many paranoid patients the delusion should be seen as the reaction of a normal, \"sane\" individual to abnormal but genuine perceptual experiences.",
+            "author": [
+                {
+                    "family": "Maher",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Integr Physiol Behav Sci",
+            "id": "maher2005a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "*Thinking,Adaptation Psychological,Attention,Awareness,Cognition Disorders/diagnosis/*psychology,Culture,delirio desordem cognitiva psicose esquizofrenia estrutura do pensamento delirante,Delusions/*psychology,Humans,Internal-External Control,Neuropsychology,Paranoid Disorders/diagnosis/psychology,Perceptual Disorders/diagnosis/psychology,Psychoanalytic Theory,Risk Factors,Schizophrenia/diagnosis,Schizophrenic Psychology,Stress Psychological/complications",
+            "language": "en-US",
+            "page": "136-46",
+            "title": "Delusional thinking and cognitive disorder",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "ISBN": "978-2-13-073151-1 (ISSN 0768-0066)",
+            "abstract": "ntroduction CHAPITRE PREMIER - Gregory Bateson : de l’anthropologie à la systémique I. – L’avant Palo Alto II. – Palo Alto : Gregory Bateson et son groupe CHAPITRE II - Systémique et psychiatrie I. – Communication. The Social Matrix of Psychiatry II. – << Vers une théorie de la schizophrénie >> CHAPITRE III - Le Mental Research Institute (MRI) I. – L’équipe de Don D. Jackson II. – Les travaux III. – Le MRI après Don D. Jackson CHAPITRE IV - La communication au cœur du système I. – Regard systémique sur la communication II. – Les propriétés de la communication III. – La pathologie de la communicationCHAPITRE V - La psychothérapie I. – Prémisses II. – Les caractéristiques de la thérapie systémique III. – Les applications thérapeutiques IV. – Évolutions CHAPITRE VI - Travail et organisations I. – De la famille à l’organisation II. – Une discipline originale CONCLUSION - Actualité de l’école de Palo Alto BIBLIOGRAPHIE Index",
+            "author": [
+                {
+                    "family": "Picard",
+                    "given": "Dominique"
+                },
+                {
+                    "family": "Marc",
+                    "given": "Édmond"
+                }
+            ],
+            "id": "picard2015a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "keyword": "escola de Palo alto (Bateson),paradoxos logicos,teoria da comunicacao,vida psico-social",
+            "publisher": "Presses Universitaires de France (PUF)",
+            "title": "L’École de Palo Alto",
+            "type": "book"
+        },
+        {
+            "DOI": "10.3389/fpsyt.2019.00659",
+            "ISSN": "1664-0640 (Print) 1664-0640",
+            "abstract": "Psychiatrists rely on language and speech behavior as one of the main clues in psychiatric diagnosis. Descriptive psychopathology and phenomenology form the basis of a common language used by psychiatrists to describe abnormal mental states. This conventional technique of clinical observation informed early studies on disturbances of thought form, speech, and language observed in psychosis and schizophrenia. These findings resulted in language models that were used as tools in psychosis research that concerned itself with the links between formal thought disorder and language disturbances observed in schizophrenia. The end result was the development of clinical rating scales measuring severity of disturbances in speech, language, and thought form. However, these linguistic measures do not fully capture the richness of human discourse and are time-consuming and subjective when measured against psychometric rating scales. These linguistic measures have not considered the influence of culture on psychopathology. With recent advances in computational sciences, we have seen a re-emergence of novel research using computing methods to analyze free speech for improving prediction and diagnosis of psychosis. Current studies on automated speech analysis examining for semantic incoherence are carried out based on natural language processing and acoustic analysis, which, in some studies, have been combined with machine learning approaches for classification and prediction purposes.",
+            "author": [
+                {
+                    "family": "Ratana",
+                    "given": "R."
+                },
+                {
+                    "family": "Sharifzadeh",
+                    "given": "H."
+                },
+                {
+                    "family": "Krishnan",
+                    "given": "J."
+                },
+                {
+                    "family": "Pang",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Front Psychiatry",
+            "edition": "20190912",
+            "id": "ratana2019b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "keyword": "analise linguistica computacional esquizofrenia psicose doenca mental psiquiatria psicologia,computational methods,culture,language dysfunction,psychosis,schizophrenia",
+            "language": "en-US",
+            "page": "659",
+            "title": "A Comprehensive Review of Computational Methods for Automatic Prediction of Schizophrenia With Insight Into Indigenous Populations",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "author": [
+                {
+                    "literal": "R Core Team"
+                }
+            ],
+            "id": "rcoreteam2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "keyword": "analise estatistica,mineracao de dados,programa de computador,R,software R",
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing (R version 4.5.2 (2025-10-31 ucrt)",
+            "title-short": "R",
+            "type": ""
+        },
+        {
+            "abstract": "Preface vii PART III: THE CONFIGURATION OF TIME IN FICTIONAL NARRATIVE 3 1. The Metamorphoses of the Plot 7 2. The Semiotic Constraints on Narrativity 29 3. Games with Time 61 4. The Fictive Experience of Time 100 Conclusion 153 Notes 161 Index 203",
+            "author": [
+                {
+                    "family": "Ricoeur",
+                    "given": "Paul"
+                }
+            ],
+            "id": "ricoeur1984a",
+            "issued": {
+                "date-parts": []
+            },
+            "keyword": "estrutura,metamorfose,narrativa,tempo",
+            "publisher": "The University of Chicago",
+            "publisher-place": "Chicago, USA",
+            "title": "Time and Narrative",
+            "type": "book",
+            "volume": "2"
+        },
+        {
+            "author": [
+                {
+                    "family": "Sass",
+                    "given": "Louis A."
+                }
+            ],
+            "container-title": "Journal of Phenomenological Psychology",
+            "id": "sass1994b",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "keyword": "alucinacao,alucinacoes,caso Schreber,loucura,psicanalise,psicose,solipsismo",
+            "page": "70-103",
+            "title": "\"My So-Called Delusions\": Solipsism, Madness, and the Schreber Case",
+            "title-short": "\"My So-Called Delusions\"",
+            "type": "article-journal",
+            "volume": "25"
+        },
+        {
+            "ISBN": "978-0-8014-9899-2",
+            "author": [
+                {
+                    "family": "Sass",
+                    "given": "L. A."
+                }
+            ],
+            "id": "sass1994c",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "keyword": "delirio,esquizofrenia,filosofia,psicopatologia,psicose,Wittegenstein",
+            "publisher": "Cornell University Press",
+            "title": "The Paradoxes of Delusion: Wittgenstein, Schreber, and the Schizophrenic Mind",
+            "title-short": "The Paradoxes of Delusion",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1002/wps.20205",
+            "author": [
+                {
+                    "literal": "Sass, L."
+                },
+                {
+                    "literal": "Byrom, G."
+                }
+            ],
+            "container-title": "World Psychiatry",
+            "id": "sassl.2015",
+            "issue": "2",
+            "issued": {
+                "date-parts": []
+            },
+            "page": "164-173",
+            "title": "Phenomenological and neurocognitive perspectives on delusions: A critical overview",
+            "title-short": "Phenomenological and neurocognitive perspectives on delusions",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "author": [
+                {
+                    "family": "Schreber",
+                    "given": "Daniel Paul"
+                }
+            ],
+            "editor": [
+                {
+                    "literal": "Richard A. Hunter"
+                }
+            ],
+            "id": "schreber1903a",
+            "issued": {
+                "date-parts": []
+            },
+            "keyword": "esquizofrenia paranoide,Freud,paranoia,psicanalise,psicopatologia,Schreber",
+            "publisher": "New York Review of Books",
+            "publisher-place": "New York",
+            "title": "Memoirs of my Nervous Illness",
+            "translator": [
+                {
+                    "literal": "Ida Macalpine"
+                }
+            ],
+            "type": "book"
+        },
+        {
+            "abstract": "É, na prática, o manual-padrão para análise lexical, tf-idf, n-grams, tópicos, sentiment, tudo dentro do paradigma tidy. __________________________ Table of contents Welcome to Text Mining with R Preface 1 The tidy text format 2 Sentiment analysis with tidy data 3 Analyzing word and document frequency: tf-idf 4 Relationships between words: n-grams and correlations 5 Converting to and from non-tidy formats 6 Topic modeling 7 Case study: comparing Twitter archives 8 Case study: mining NASA metadata 9 Case study: analyzing usenet text 10 References View book source",
+            "author": [
+                {
+                    "family": "Silge",
+                    "given": "Julia"
+                },
+                {
+                    "family": "Robinson",
+                    "given": "David"
+                }
+            ],
+            "id": "silge2026a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026
+                    ]
+                ]
+            },
+            "keyword": "analise de texto com R,analise estatistica computacional,analise linguistica,mineracao de texto,programacao,R software",
+            "title": "Text Mining with R: A Tidy Approach",
+            "title-short": "Text Mining with R",
+            "type": ""
+        },
+        {
+            "abstract": "It is well established by psychopathological research that disorders of self-experience are among the main features of schizophrenic prodromes in a pathogenetic sense. Disorders of the phenomenal self, as “lack of ipseity” (the vanishing of the feeling of being embedded in oneself and of distinctiveness between the self and the outer world) and “hyper-reflexivity” (the monitoring of one’s own life entailing the tendency to objectify parts of one’s own self in an outer space) are considered key phenomena of schizophrenic vulnerability. In this paper, I argue that the analyses of the disorders of phenomenal self catch only some dimensions of schizophrenic vulnerability, since they mainly focus on the pathological changes in subjective experience of an isolated self and disregard the fact that the self is not purely personal. Because our existence is fundamentally tied to a social existence, the feeling of one’s own self and the sense of “reality” of an experience are products of intersubjectivity and not only a private process based on introspection or reflexivity in which one is engaged in an idiosyncratic way. Building on, and extending, contributions of the phenomenological tradition, I attempt to demonstrate that intuitive attunement is the basic prerequisite for establishing one’s sense of “reality” (feeling familiarly related to one’s environment) and for establishing one’s sense of “ipseity” (the sense of existing as a subject of awareness). In the last part of the paper, I show the importance of the concepts “lack of attunement” and “antagonomia” (the rejection of conventional knowledge and intuitive attunement, experienced as dangerous sources of loss of individuality) to establish a comprehensive theory of schizophrenic vulnerability. I finally discuss the implications of this view for empirical research and clinical management of schizophrenic vulnerability.",
+            "author": [
+                {
+                    "family": "Stanghellini",
+                    "given": "Giovanni"
+                }
+            ],
+            "container-title": "Philosophy, Psychiatry, & Psychology",
+            "id": "stanghellini2001a",
+            "issue": "2/3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "esquizofrenia,mente esquizofrenica,senso comum",
+            "title": "Psychopathology of Common Sense",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "Watzlawick",
+                    "given": "Paul"
+                }
+            ],
+            "container-title": "Bateson - Premier état d’un héritage",
+            "editor": [
+                {
+                    "family": "Winkin",
+                    "given": "Yves"
+                }
+            ],
+            "id": "watzlawick1988c",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "page": "44-55",
+            "publisher": "Seuil",
+            "publisher-place": "Paris",
+            "title": "A propos de Gregory Bateson",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Watzlawick",
+                    "given": "Paul"
+                }
+            ],
+            "container-title": "Bateson - Premier état d’un héritage",
+            "editor": [
+                {
+                    "family": "Winkin",
+                    "given": "Yves"
+                }
+            ],
+            "id": "watzlawick1988d",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "keyword": "(intersubjectividade,(relacoes sociais),auto-referencia,autoreferencia,eu-outro,interaccao),paradoxo,relacoes humanas",
+            "page": "185-194",
+            "publisher": "Seuil",
+            "publisher-place": "Paris",
+            "title": "Paradoxe et autoréférence dans les relations humaines",
+            "type": "chapter"
+        },
+        {
+            "abstract": "The Language of Change: Elements of Therapeutic Communication Paul Watzlawick In this groundbreaking book, a world authority on human communication and communication therapy points out a basic contradiction in the way therapists use language. Although communications emerging in therapy are ascribed to the mind’s unconscious, dark side, they are habitually translated in clinical dialogue into the supposedly therapeutic language of reason and consciousness. But, Dr. Watzlawick argues, it is precisely this bizarre language of the unconscious which holds the key to those realms where alone therapeutic change can take place. Dr. Watzlawick suggests that rather than following the usual procedure of interpreting the patient’s communications and thereby translating them into the language of a given psychotherapeutic theory, the therapist must learn the patient’s language and make his or her interventions in terms that are congenial to the patient’s manner of conceptualizing reality. Only in that way, he shows, can the therapist effectively bring about genuine changes and problem resolutions. Drawing on the work of Milton H. Erickson, he supports his findings with many (and often amusing) examples. This book, then, is a virtual introductory course to the grammar and language of the unconscious. ____________________ PREFACE I X 1 . Overview 3 2 . Our Two Languages x 3 3 - Our Two Brains 1 9 4 - Experimental Evidence 28 5 - World Images 40 6 . Right-Hemispheric Language Patterns 48 Condensations 49 Figurative Language 56 Pars pro toto 69 Aphorisms 73 Ambiguities, Puns, Allusions 78 7. Blocking the Left Hemisphere 91 11 est interdit d’interdire 99 Symptom Prescriptions 101 Symptom Displacements 106 The Illusion of Alternatives 108 Reframing j i 8 8. Injunctive Language—Behavior Prescriptions 127 9. Anything, Except THAT 138 Speaking the Patient’s “ Language” 139 Utilizing the Patient’s Resistance 144 Preempting 150 Vl l Therapeutic Rituals Conclusion WORKS CITED INDEX",
+            "author": [
+                {
+                    "family": "Watzlawick",
+                    "given": "Paul"
+                }
+            ],
+            "id": "watzlawick1993a",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993
+                    ]
+                ]
+            },
+            "keyword": "comunicacao em psicoterapia,comunicacao paciente-terapeuta,hipnose ericksoniana,inconsciente,linguagem,linguagem do inconsciente,Milton Erickson",
+            "publisher": "W. W. Norton & Co.",
+            "publisher-place": "New York",
+            "title": "The Language of Change: Elements of Therapeutic Communication",
+            "title-short": "The Language of Change",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Watzlawick",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Beavin",
+                    "given": "Janet Helmuth"
+                },
+                {
+                    "family": "Jackson",
+                    "given": "Don D."
+                }
+            ],
+            "id": "watzlawick1999a",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "keyword": "dupla-vinculacao terapeutica,duplo-vinculo,paradoxo,psicanalise,psicoterapias,sessao analitica",
+            "publisher": "Ed. Cultrix",
+            "publisher-place": "São Paulo",
+            "title": "Pragmática da Comunicação Humana - Um estudo dos padrões, patologias e paradoxos da interação",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Watzlawick, P."
+                },
+                {
+                    "literal": "Beavin, J. H."
+                },
+                {
+                    "literal": "Jackson, D. D."
+                }
+            ],
+            "id": "watzlawickp.1967",
+            "issued": {
+                "date-parts": [
+                    [
+                        1967
+                    ]
+                ]
+            },
+            "publisher": "W. W. Norton & Company",
+            "title": "Pragmatics of Human Communication - A study of interactional patterns, pathologies and paradoxes",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1007/978-3-319-24277-4",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "H."
+                }
+            ],
+            "edition": "Springer",
+            "id": "wickham2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "definicao da linguagem R,dplyr,estatistica,informatica,linguagem R,programacao R,software R",
+            "title": "Ggplot2: Elegant graphics for data analysis",
+            "title-short": "Ggplot2",
+            "type": "book"
+        },
+        {
+            "DOI": "10.32614/CRAN.package.dplyr",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "François",
+                    "given": "Romain"
+                },
+                {
+                    "family": "Henry",
+                    "given": "Lionel"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Kirill"
+                },
+                {
+                    "family": "Vaughan",
+                    "given": "Davis"
+                }
+            ],
+            "id": "wickham2026c",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026
+                    ]
+                ]
+            },
+            "keyword": "definicao da linguagem R,dplyr,estatistica,informatica,linguagem R,programacao R,software R",
+            "title": "Dplyr: A grammar of data manipulation",
+            "title-short": "Dplyr",
+            "type": ""
+        },
+        {
+            "abstract": "Se quiseres uma visão panorâmica, com pacotes por nível linguístico (morfologia, sintaxe, semântica, pragmática) e por tarefa (tokenização, embeddings, topic models, etc.), isto funciona como índice bibliográfico e técnico. Se estiveres a montar um apêndice metodológico, citar esta Task View é uma forma elegante de mostrar cobertura do ecossistema.",
+            "author": [
+                {
+                    "family": "Wild",
+                    "given": "Fridolin"
+                }
+            ],
+            "id": "wild2023a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "keyword": "analise linguistica com software R,analise linguistica computacional,programacao",
+            "title": "CRAN Task View: Natural Language Processing",
+            "title-short": "CRAN Task View",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Minkowski",
+                    "given": "Eugène"
+                }
+            ],
+            "id": "minkowski1927",
+            "issued": {
+                "date-parts": [
+                    [
+                        1927
+                    ]
+                ]
+            },
+            "note": "Reprinted 1997, Millon, Grenoble",
+            "publisher": "Payot",
+            "publisher-place": "Paris",
+            "title": "La schizophrénie: Psychopathologie des schizoïdes et des schizophrènes",
+            "title-short": "La schizophrénie",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1353/ppp.2001.0052",
+            "author": [
+                {
+                    "family": "Blankenburg",
+                    "given": "Wolfgang"
+                }
+            ],
+            "container-title": "Philosophy, Psychiatry, & Psychology",
+            "id": "blankenburg1969",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "note": "Original work: Der Verlust der natürlichen Selbstverständlichkeit, 1971, Enke, Stuttgart",
+            "page": "303-315",
+            "title": "First steps toward a psychopathology of “common sense”",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1353/ppp.2001.0014",
+            "author": [
+                {
+                    "family": "Parnas",
+                    "given": "Josef"
+                },
+                {
+                    "family": "Sass",
+                    "given": "Louis A."
+                }
+            ],
+            "container-title": "Philosophy, Psychiatry, & Psychology",
+            "id": "parnas2001a",
+            "issue": "2/3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "page": "101-120",
+            "title": "Self, solipsism, and schizophrenic delusions",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1353/ppp.2001.0055",
+            "author": [
+                {
+                    "family": "Kimura",
+                    "given": "Bin"
+                }
+            ],
+            "container-title": "Philosophy, Psychiatry, & Psychology",
+            "id": "kimura2001",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "page": "331-336",
+            "title": "Cogito and I: A bio-logical approach",
+            "title-short": "Cogito and I",
+            "type": "article-journal",
+            "volume": "8"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

@@ -1,0 +1,81 @@
+# Results
+
+## Descriptive profile of the segmented corpus
+
+The manually curated benchmark corpus was segmented into 235 paragraph-level units. Segment length ranged from 28 to 393 words, with a mean of 290.4 words and a median of 310.0 words. This distribution indicates that the corpus retained substantial paragraph-level variability while avoiding the fragmentation produced by OCR-based line segmentation.
+
+The resulting dataset provided the basis for the computation of three paragraph-level variables: normalized meta-communication density (`meta_score`), normalized delusional-ontology density (`delus_score`), and their multiplicative coupling index (`paranoid_meta`).
+
+![**Fig. 1** Temporal trajectory of normalized meta-communication score, delusional-ontology score, and coupling index across segment order. Each point represents one of 235 paragraph-level segments. The coupling index (upper series) identifies localized peaks of conjunctive intensity.](images/time_series_scores.png){#fig-time-series width=90%}
+
+## Global association between meta-communication and delusional ontology
+
+To test the monotonic escalation hypothesis, we estimated the Pearson correlation between normalized meta-communication scores and normalized delusional-ontology scores across all segments. The correlation was weak and non-significant, *r* = 0.041, 95% CI [−0.088, 0.168], *p* = 0.535.
+
+This result does not support a global linear association between the two dimensions. Passages richer in delusional-ontological vocabulary were not systematically associated with higher levels of meta-communicative framing across the corpus as a whole.
+
+## Temporal clustering of meta-communicative activity
+
+To assess whether meta-communicative framing exhibited temporal persistence across adjacent segments, we computed the autocorrelation function (ACF) of the meta-communication score. The first-lag autocorrelation was 0.052, and subsequent lags remained low in magnitude.
+
+This pattern does not support the existence of robust temporal clustering in meta-communicative activity when considered in isolation. Meta-communicative signals therefore do not appear to organize into extended, self-sustaining stretches across narrative order.
+
+![**Fig. 2** Autocorrelation function of the normalized meta-communication score across narrative order. Dashed lines represent the 95% confidence interval for white noise. All lags fall within or near the confidence band, indicating absence of systematic temporal structure.](images/meta_acf.png){#fig-meta-acf width=70%}
+
+## Lagged association and reactive coupling
+
+To test a simple local reactive model, we examined the association between the coupling index (`paranoid_meta`) and the one-step lag of delusional-ontology scores. The resulting Pearson correlation was small but statistically significant, *r* = 0.161, 95% CI [0.033, 0.283], *p* = 0.014.
+
+This finding suggests a limited local dependency: increases in delusional-ontological intensity may be followed by modest increases in discursive coupling in the immediately subsequent segment. However, the effect size remains small, indicating that coupling cannot be reduced to a strong or deterministic one-step reactive process.
+
+## Detection of peak regimes
+
+Peak segments were defined as observations exceeding the 95th percentile of the coupling index. These segments represent passages in which meta-communicative framing and delusional ontology become simultaneously elevated relative to the rest of the corpus.
+
+The peak structure remained episodic and sparse, indicating that the strongest forms of discursive coupling are concentrated in localized passages rather than diffusely distributed throughout the memoir.
+
+![**Fig. 3** Coupling index across segment order, with the 95th-percentile threshold (dashed line) and peak segments marked. Peak segments are sparsely and irregularly distributed, consistent with an episodic rather than cumulative structural model.](images/coupling_peaks.png){#fig-coupling-peaks width=90%}
+
+## Lexical differentiation between peak and non-peak segments
+
+To characterize the linguistic profile of high-coupling regimes, we compared peak and non-peak segments using log-likelihood keyness analysis (G²). This analysis identified the lexical features most strongly associated with peak passages and contrasted them with those characterizing the remainder of the corpus.
+
+**Table 1** Top peak-favoring terms from log-likelihood keyness analysis
+
+| Feature | G² | *p* | *n* target | *n* reference |
+|:--------|----:|------:|----------:|--------------:|
+| nerves | 20.85 | < 0.001 | 32 | 241 |
+| divine | 17.89 | < 0.001 | 15 | 68 |
+| must | 15.97 | < 0.001 | 18 | 111 |
+| certain | 13.40 | < 0.001 | 15 | 92 |
+| plant | 12.51 | < 0.001 | 3 | 0 |
+| power | 12.32 | < 0.001 | 14 | 81 |
+| created | 10.72 | 0.001 | 10 | 48 |
+| remnants | 10.02 | 0.002 | 3 | 1 |
+| picture | 8.98 | 0.003 | 7 | 27 |
+| rays | 6.99 | 0.008 | 21 | 215 |
+
+*Note.* G² = log-likelihood statistic. *n* target = frequency in peak segments; *n* reference = frequency in non-peak segments.
+
+**Table 2** Top non-peak-favoring terms from log-likelihood keyness analysis
+
+| Feature | G² | *p* | *n* target | *n* reference |
+|:--------|----:|------:|----------:|--------------:|
+| first | 5.69 | 0.017 | 112 | 1 |
+| long | 2.72 | 0.099 | 55 | 0 |
+| since | 2.40 | 0.121 | 51 | 0 |
+| sleep | 2.32 | 0.127 | 50 | 0 |
+| possible | 1.86 | 0.173 | 44 | 0 |
+| time | 1.75 | 0.186 | 270 | 9 |
+| asylum | 1.42 | 0.234 | 111 | 3 |
+| flechsig | 1.37 | 0.242 | 69 | 1 |
+
+*Note.* Non-peak terms show uniformly lower G² values and weaker lexical differentiation.
+
+The keyness contrast indicates that peak and non-peak segments are not simply distinguished by raw intensity alone, but by differing lexical profiles. This supports the interpretation of peak passages as distinct discursive configurations rather than merely quantitatively stronger instances of surrounding narrative material.
+
+## Interim synthesis
+
+Taken together, the results do not support a strong monotonic escalation account. Meta-communication and delusional ontology are not globally correlated in a statistically meaningful way, and meta-communicative activity does not display robust temporal clustering in isolation. At the same time, the lagged analysis suggests a modest local reactive dependency, and peak detection continues to identify sparse episodes of intensified coupling.
+
+These findings favour a model of psychotic discourse that is weakly structured at the global level but punctuated by localized moments of heightened discursive coupling.

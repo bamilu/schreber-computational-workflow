@@ -1,0 +1,23 @@
+# Cover Letter — Phenomenology and the Cognitive Sciences
+
+Dear Editor,
+
+I am submitting for consideration the manuscript entitled *Episodic Structure in Psychotic Discourse: A Reproducible Workflow for Modeling Meta-Communication and Delusional Ontology in Schreber's Memoirs* as an original research article for *Phenomenology and the Cognitive Sciences*.
+
+**Scientific contribution.** The paper proposes and implements a fully reproducible computational workflow for the quantitative analysis of psychotic discourse, operationalizing two theoretically grounded dimensions — meta-communication (Bateson) and delusional ontology (Sass) — as paragraph-level lexical features in an extended narrative corpus. Applied to Daniel Paul Schreber's *Memoirs of My Nervous Illness*, the analysis tests three competing structural models of psychotic discourse and finds that the data support an episodic, temporally heterogeneous architecture rather than a model of continuous escalation or stable global coupling. The central analytical result — a modest but significant lagged dependency (*r* = 0.161, *p* = 0.014) alongside sparse high-coupling peak segments — is interpreted in relation to Sass's concept of hyperreflexivity, which the present operationalization allows to be partially specified and empirically tested for the first time at the level of discourse organization.
+
+**Fit with the journal's scope.** *Phenomenology and the Cognitive Sciences* serves as the most precise venue for this work. The paper builds bridges between continental phenomenological approaches — Sass, Bateson, Stanghellini, Ricoeur — and empirical cognitive science, which is exactly the journal's stated mission. The operationalization of Sass's hyperreflexivity as a measurable textual property and the use of R-based computational tools to test phenomenological claims represents the kind of integrative, methodologically explicit work that the journal explicitly encourages. The paper discusses methodological issues at length and addresses questions open to both phenomenological and empirical investigation.
+
+**Reproducibility.** The entire workflow is implemented in R and Quarto, fully scripted from raw corpus ingestion to figure generation. All materials are deposited in a public repository and archived on Zenodo. Repository details are provided on the title page and will be disclosed in the published version; they have been omitted from the main manuscript to comply with double-blind review requirements.
+
+**Originality and prior submission.** This is an original work that has not been published. A previous version was submitted to *Quantitative and Computational Methods in Behavioral Sciences* (QCMB), where it remained under editorial assessment for over two months without a decision. The manuscript was subsequently withdrawn. The present version has been substantially revised and reformatted to align with *Phenomenology and the Cognitive Sciences*' scope and format guidelines.
+
+**Competing interests.** None to declare.
+
+**AI tools.** No artificial intelligence tools were used in the data analysis or in generating the results reported in this article. The manuscript was prepared without the use of generative AI writing tools, excepting text translation to english.
+
+I am the sole author. I would be pleased to suggest reviewers with expertise in phenomenological psychopathology and computational methods upon request.
+
+Yours sincerely,
+
+Luís Miguel de Jesus Lopes Barreiros, PhD Post-Doctoral Researcher Universidade da Beira Interior, Covilhã, Portugal luis.miguel.barreiros\@ubi.pt ORCID: \[insert ORCID\]

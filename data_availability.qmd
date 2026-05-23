@@ -1,0 +1,5 @@
+# Data availability
+
+The code, derived data, and reproducibility materials supporting the findings of this study have been deposited in a public version-controlled repository and archived with a persistent identifier. Details of the repository location and identifier are withheld from this version of the manuscript to preserve double-blind peer review. Full repository information will be provided upon acceptance.
+
+The repository includes the curated textual corpus derived from Schreber's *Memoirs of My Nervous Illness*, the complete R-based computational pipeline for preprocessing, segmentation, scoring, and statistical analysis, Quarto manuscript files and analysis notebooks, and all figures and tables reported in the article. Due to the manual curation process applied to the source text, the corpus represents a processed derivative rather than a direct facsimile of any published edition. All transformations are documented within the repository.

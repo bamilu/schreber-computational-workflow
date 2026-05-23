@@ -1,0 +1,55 @@
+# Methods
+
+## Corpus construction and source preparation
+
+The corpus analysed in this study derives from Daniel Paul Schreber's *Memoirs of My Nervous Illness* (Schreber, 1903/2000). The textual material was first digitized using optical character recognition (OCR) software applied to a printed edition of the work. Following this initial digitization step, a manual curation procedure was undertaken to reconstruct a clean textual corpus.
+
+This manual intervention was not limited to superficial correction. The text was systematically reviewed and edited in order to isolate Schreber's narrative voice and exclude non-authorial material, including editorial commentary, translator notes, bibliographic apparatus, page headers, running titles, and other paratextual elements. The resulting corpus therefore represents a deliberately reduced textual layer corresponding as closely as possible to the narrative core of Schreber's memoir.
+
+This dual-stage process, combining OCR-based digitization with manual textual curation, was designed to minimize the structural noise typically introduced by scanned editions while preserving the semantic integrity of the original narrative. The final corpus was stored as a UTF-8 encoded plain text file and used as the sole input for the computational pipeline.
+
+## Paragraph reconstruction and segmentation
+
+The cleaned text was processed through a reproducible R-based pipeline designed to reconstruct paragraph-level segments. Raw text was first normalized by removing encoding artefacts, standardizing line breaks, and eliminating residual structural noise such as isolated page numbers and spaced uppercase headers.
+
+Paragraph reconstruction was achieved by collapsing line-level text into continuous blocks and splitting segments based on paragraph boundaries defined by empty-line delimiters. Additional filtering steps removed segments below a minimum length threshold to avoid the inclusion of residual artefacts or structurally incomplete units.
+
+The final segmentation yielded 235 paragraph-level units, each representing a contiguous discursive fragment of Schreber's narrative. Segment-level metadata included a unique identifier (`seg_id`), sequential order (`order`), word count (`words`), and the raw textual content (`text`).
+
+## Operationalization of meta-communication and delusional ontology
+
+Two theoretical constructs were operationalized at the segment level: meta-communication and delusional ontology. These constructs were translated into lexical indicators using theory-driven seed dictionaries.
+
+The meta-communication lexicon targeted reflexive and higher-order discursive markers, including expressions related to explanation, meaning attribution, interpretation, justification, and communicative framing (e.g., 'meaning', 'explain', 'interpret', 'in order to', 'it is necessary'). These markers were intended to approximate the pragmatic function of discourse about discourse.
+
+The delusional ontology lexicon targeted content referring to supernatural agents, cosmological structures, divine entities, and metaphysical processes characteristic of Schreber's system (e.g., 'God', 'rays', 'souls', 'miracles', 'divine', 'creation'). These terms were selected to capture the ontological layer of the narrative.
+
+For each segment, normalized scores were computed as the proportion of lexicon-matching tokens relative to total word count. This yielded two continuous variables: `meta_score` and `delus_score`.
+
+The R packages *quanteda* (Benoit et al., 2018) and *quanteda.textstats* (Benoit, 2024) are available under the GNU General Public License and were used without modification. The *dplyr* (Wickham et al., 2023) and *ggplot2* (Wickham, 2016) packages are similarly open-source and require no additional permissions for academic use.
+
+## Construction of the coupling index
+
+To capture the co-occurrence of meta-communication and delusional ontology, a multiplicative coupling index (`paranoid_meta`) was defined as:
+
+$$paranoid\_meta = meta\_score \times delus\_score$$
+
+This formulation ensures that high values of the index emerge only when both dimensions are simultaneously elevated. Segments with high values in only one dimension do not produce high coupling scores. The index therefore operationalizes conjunctive intensity rather than additive contribution.
+
+## Statistical analyses
+
+Three types of analyses were conducted.
+
+First, global association between meta-communication and delusional ontology was assessed using Pearson's product-moment correlation. This test evaluates whether the two dimensions co-vary across the corpus in a linear fashion.
+
+Second, temporal structure was examined through autocorrelation analysis of the meta-communication score across segment order. The autocorrelation function (ACF) was used to assess whether meta-communicative activity exhibits persistence across adjacent segments.
+
+Third, a simple lagged dependency model was tested by correlating the coupling index (`paranoid_meta`) with the one-step lag of delusional-ontology scores. This analysis evaluates whether increases in ontological intensity are followed by subsequent increases in discursive coupling.
+
+In addition, peak segments were identified as those exceeding the 95th percentile of the coupling index. These segments were interpreted as localized regimes of intensified coupling. Lexical differentiation between peak and non-peak segments was assessed using log-likelihood keyness statistics (G²), enabling comparison of their respective lexical profiles.
+
+## Reproducibility
+
+All preprocessing, segmentation, scoring, and statistical analyses were implemented in R (R Core Team, 2025) using a fully scripted workflow. The pipeline includes all steps from raw text ingestion to figure and table generation, ensuring full reproducibility of results given the same input corpus. Code and data are publicly available in a version-controlled repository (see 'Data availability' section).
+
+No artificial intelligence tools were used in data analysis or in generating the results reported in this article.

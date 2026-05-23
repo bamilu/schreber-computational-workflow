@@ -1,0 +1,56 @@
+---
+title: "Title Page — Phenomenology and the Cognitive Sciences"
+format:
+  docx:
+    toc: false
+---
+
+# Title Page
+
+**Full title:** Episodic Structure in Psychotic Discourse: A Reproducible Workflow for Modeling Meta-Communication and Delusional Ontology in Schreber's Memoirs
+
+**Running head:** Episodic structure in psychotic discourse
+
+------------------------------------------------------------------------
+
+## Author information
+
+**Luís Miguel de Jesus Lopes Barreiros** Departamento de Psicologia e Educação, Universidade da Beira Interior, Covilhã, Portugal ORCID: \[insert ORCID\] Email: luis.miguel.barreiros\@ubi.pt *(Corresponding author)*
+
+------------------------------------------------------------------------
+
+## Declarations
+
+### Funding
+
+No funding was received for conducting this study.
+
+### Competing interests
+
+The author has no relevant financial or non-financial interests to disclose.
+
+### Ethics approval
+
+This study involved no human participants, human material, or human data. The corpus consists exclusively of a historical text in the public domain — Daniel Paul Schreber's *Memoirs of My Nervous Illness* (1903). Ethics approval was therefore not required and no informed consent was necessary.
+
+### Data and code availability
+
+All code, derived data, and reproducibility materials for this study are openly available in a public version-controlled repository:
+
+<https://github.com/bamilu/schreber-computational-workflow>
+
+An archived version corresponding to the submitted manuscript is available via Zenodo:
+
+<https://doi.org/10.5281/zenodo.19153006>
+
+The repository includes the curated textual corpus derived from Schreber's *Memoirs of My Nervous Illness*, the full R-based computational pipeline, Quarto manuscript files, and all figures and tables reported in the article. All transformations applied to the source text are documented within the repository.
+
+*Note to Editor:* The repository URLs above are withheld from the main manuscript file to comply with double-blind peer review requirements. They are provided here on the title page for the Editor's reference and will be reinstated in the published version upon acceptance.
+
+### Authors' contributions
+
+L.M.B.: Conceptualisation, methodology, software, formal analysis, writing — original draft, writing — review and editing.
+
+### Acknowledgements
+
+The author wishes to thank the maintainers of the *quanteda* ecosystem for their open-source contributions to reproducible text analysis in R.

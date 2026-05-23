@@ -1,0 +1,10 @@
+project:
+  type: default
+  output-dir: _output
+
+format:
+  docx: default
+
+bibliography: references.bib
+csl: apa7.csl
+
